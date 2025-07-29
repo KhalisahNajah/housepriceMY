@@ -26,15 +26,6 @@ The dashboard offers an interactive experience to explore various aspects of the
 
 ---
 
-## 🚀 How to Use
-
-1.  **Download Power BI Desktop:** If you don't already have it, download and install Power BI Desktop (it's free!).
-2.  **Download the `.pbix` file:** Clone this repository or download the `Malaysian Property Market Insights 2025.pbix` file directly.
-3.  **Open the file:** Launch Power BI Desktop and open the downloaded `.pbix` file.
-4.  **Interact:** Use the slicers (e.g., by State, Property Type, Tenure) and interact with the charts to filter and explore the data in detail.
-
----
-
 ## 🔗 Data Source
 
 This dashboard is built using the **"House Prices in Malaysia (2025)"** dataset available on Kaggle.
